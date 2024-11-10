@@ -46,6 +46,10 @@ In each level, you’ll uncover part of a 6-character flag. Each level will reve
 ## Notes
 1. Carefully solve Levels 1-3 to gather the first three parts of the flag.
 2. Ensure all dependencies and configurations are correct by running `npm install` and `npm deploy` before starting each level.
+
+
+
+After completing the level 4 Enter the keys found in the chakravyuh portal to signal completion
 3. Only proceed to Level 4 once Levels 1-3 are fully completed.
 
 Good luck, and happy hacking!

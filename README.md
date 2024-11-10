@@ -18,6 +18,8 @@ To navigate through the levels in this challenge, you’ll need to clone the rep
 
 Once you've cloned the repository and are comfortable switching between commits, you're ready to dive into the levels.
 
+### Step 1.1: Clone the repository assigned to you, and explore the commits.
+
 ### Step 2: Running Each Level
 Each level is structured as a separate commit with a dedicated file. Here’s how to start each level:
 

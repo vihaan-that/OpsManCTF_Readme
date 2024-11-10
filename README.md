@@ -22,7 +22,8 @@ Once you've cloned the repository and are comfortable switching between commits,
 Each level is structured as a separate commit with a dedicated file. Here’s how to start each level:
 
 1. **Navigate to the level's commit** (refer to the Git documentation above if you’re unsure how to do this).
-2. Run the following commands based on your operating system after navigating to each level’s commit:
+2. Do the following after navigating to each level’s commit:
+   ### navigate to the level folder and thenn run the command, replace x with the level number:
    ## USE WSL if you're on windows.
    ```bash
    ./levelx

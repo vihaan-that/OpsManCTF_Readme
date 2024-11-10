@@ -32,7 +32,7 @@ Each level is structured as a separate commit with a dedicated file. Here’s ho
 4. Run the setup commands before beginning the level:
    ```bash
    npm install
-   npm deploy
+   npm run dev
    ```
 
 ### Step 3: Solving the Levels
